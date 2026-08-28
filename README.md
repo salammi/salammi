@@ -1,6 +1,6 @@
 ### 🍥 Hello, my name is Danh Huy 
 
-#### 🍥 Network Engineer graduated student based in Rhu Duc City
+#### 🍥 Network Engineer graduated student based in Thu Duc City
 
 
 - ⚙️ I use daily: `.java, .python, .c/c++, .sql, .javascript, .html/css, .git`
