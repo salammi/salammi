@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello, my name is Danh Huy 👋
 
-<!--
-**salammi/salammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Network Engineer graduated student by day ☼ and Open Source Contributor by night ☾
 
-Here are some ideas to get you started:
+Network Engineer graduated student at []();<br>
+Based in An Khanh Ward, Thu Duc City;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.java, .python, .c/c++, .sql, .javascript, .html/css, .git`
+- 🌍 I'm mostly active within the **Java Community, UNIX**
+- 💬 `ping` me about **Network architecture, secure file transfer solutions, programming in Java and Python.**
+- 📫 How to reach me: [nguyendanhhuy5@gmail.com](mailto:nguyendanhhuy5@gmail.com)
+
+---
